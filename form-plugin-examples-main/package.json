@@ -31,7 +31,7 @@
     "@lit-labs/motion": "^1.0.3",
     "@material/mwc-slider": "^0.27.0",
     "@material/mwc-textfield": "^0.27.0",
-    "@nintex/form-plugin-contract": "^1.0.0-beta.2",
+    "@nintex/form-plugin-contract": "^1.0.0-beta.3",
     "chart.js": "^3.7.1",
     "gridjs": "^6.0.6",
     "lit": "^2.3.1"
